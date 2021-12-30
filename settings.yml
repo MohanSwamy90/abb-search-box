@@ -11,8 +11,7 @@ plugin_outlet:
   default: "above-main-container"
   type: enum
   choices:
-    - above-main-container
-    - below-site-header
+    - above-main-container    
     -before-create-topic-button
 
 background_image:
