@@ -11,8 +11,8 @@ plugin_outlet:
   default: "above-main-container"
   type: enum
   choices:
-    - above-main-container    
-    -before-create-topic-button
+    - above-main-container
+    - below-site-header
 
 background_image:
   type: upload
